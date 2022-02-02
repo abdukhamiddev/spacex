@@ -1,5 +1,5 @@
 export interface IShips {
-    image?: string
+    image: string
     id: string
     name: string
 }
